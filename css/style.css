@@ -2,11 +2,13 @@ body {
     background: rgb(207, 208, 255);
 }
 
+
+
 .post_imagem_perfil {
     margin-left: 25px;
     border-radius: 50%;
-    align-items: center;
 }
+
 
 #title,
 .subtitle,
@@ -59,10 +61,11 @@ body {
     font-family: Verdana;
 }
 
-.linksfinal {
+.foot {
     color: darkgrey;
-    padding: 10px;
-    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .linksall {
