@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido com as tecnologias:
 
 <hr/>
 
-[Click aqui para visualizar a página](https://snitramnolram.github.io/HTML_CSS/)
+[Click aqui para visualizar a página](https://snitramnolram.github.io/Minha-primeira-pagina-html/)
